@@ -1,0 +1,67 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    display: block;
+    text-align: center;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: rgb(194, 197, 197);
+    
+}
+
+.section{
+    padding: 4rem;
+   
+}
+
+.section li {
+    padding: 1rem;
+}
+
+header{
+    margin-bottom: 1rem;
+    height: 100px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(15, 99, 224);
+    margin-top: 0;
+}
+footer{
+    height: 70px;
+    width: 100%;
+
+    background-color: rgb(15, 99, 224);
+    margin-top: 1rem;
+}
+
+#contato{
+    background-color: rgb(179, 184, 197);
+  
+    
+ 
+ 
+}
+
+#objetivo{
+    background-color: aliceblue;
+}
+
+#exp{
+    background-color: rgb(179, 184, 197);
+}
+
+#dados{
+    background-color: aliceblue;
+}
+
+.container{
+    display: block;
+    align-items: center;
+    width: 80%;
+    margin-left: 200px;
+    
+}
